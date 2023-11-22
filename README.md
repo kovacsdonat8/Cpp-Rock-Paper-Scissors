@@ -7,7 +7,9 @@ Designed object model for modeling the rock-paper-scissors game! Our goal is to 
 Rock-paper-scissors is played by two players. Players choose one shape at a time (rock, paper or scissors). The object of the game is to choose a shape that knocks out the one chosen by the other player. The rock wears out the scissors, the scissors cuts the paper, the paper wraps the stone. If both chose the same, the result of the round is a tie.
 
 The extended version of the game is rock-paper-scissors-lizard-Spock, with possible winning outcomes as follows:
+
 ![kép](https://github.com/kovacsdonat8/Cpp-Rock-Paper-Scissors/assets/114249590/8ff1089d-99f2-4653-81fe-c143982ed3c8)
+
 The game ends when someone reaches the predetermined amount of wins.
 
 ## Players
@@ -41,6 +43,7 @@ The program can be expanded later with new algorithms as desired.
 ## Plan
 The task presents the object-oriented design of a program in a UML diagram.
 The program contains the following classes, their relationships and attributes:
+
 ![kép](https://github.com/kovacsdonat8/Cpp-Rock-Paper-Scissors/assets/114249590/b38723c5-e532-4d73-b043-64917026bfab)
 
 ## Algorithms
